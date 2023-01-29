@@ -1,0 +1,33 @@
+table{
+   background-image: url("../imgs/planet.png");
+   width: 100%;
+   background-repeat: no-repeat;
+   background-position: top;
+   text-align: center;
+   border-spacing: 0px;
+   
+}
+th{
+    background-color: #C4DFEB; 
+    opacity: 80%;
+}
+th, td {
+    border:2px dashed;
+    padding: 15px;
+    
+    border-collapse: separate;
+  }
+  .tablecol{
+    background-color: #C4DFEB;
+    opacity: 80%;
+  }
+  p{
+    text-align: center;
+    color: red;
+    margin: 0;
+  }
+  mark{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+  }
